@@ -1,0 +1,1 @@
+<img id="bg"src="img/check.png" width="45"  class="img-rounded" >
